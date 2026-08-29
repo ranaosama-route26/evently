@@ -1,0 +1,14 @@
+{
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "forgetPassword": "¿Olvidaste tu contraseña?",
+  "resetPassword": "Restablecer contraseña",
+  "do_not_have_account": "¿No tienes una cuenta? ",
+  "create_account": "Crear cuenta",
+  "login_with_google": "Iniciar sesión con Google",
+  "or": "O",
+  "login": "Iniciar sesión",
+  "register": "Registrarse",
+  "name": "Nombre",
+  "already_have_account": "¿Ya tienes una cuenta? "
+}
